@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--角标自定义动画的属性-->
+    <declare-styleable name="CircleNumView">
+        <!--文字大小-->
+        <attr name="textSize" format="dimension"/>
+        <!--文字颜色-->
+        <attr name="textColor" format="color"/>
+        <!--背景色-->
+        <attr name="circleBackground" format="color"/>
+        <!--文字内容-->
+        <attr name="text" format="string"/>
+    </declare-styleable>
+</resources>
